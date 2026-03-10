@@ -1,9 +1,9 @@
 # To-Do List for immobilierdigital.aidi
-TERRAIN AVEC ACD C�TE D�IVOIRE Website
+TERRAIN AVEC ACD CéTE DéIVOIRE Website
 
 ## Project Overview
 - **Company Name:** immobilierdigital.aidi
-TERRAIN AVEC ACD C�TE D�IVOIRE
+TERRAIN AVEC ACD CéTE DéIVOIRE
 - **Directory:** immobilierdigital_aidi_terrain_avec_acd_c_te_d_ivoire
 - **Address/Contact:** 
   - TERRAINS ACD : +225 01 02 41 55 38
@@ -27,7 +27,7 @@ TERRAIN AVEC ACD C�TE D�IVOIRE
 - [ ] Update package.json:
   - Name: immobilierdigital-aidi-terrain-avec-acd-c-te-d-ivoire  - Version: 0.1.0- [ ] Update index.html:
   - Title: immobilierdigital.aidi
-TERRAIN AVEC ACD C�TE D�IVOIRE  - Meta description: ...
+TERRAIN AVEC ACD CéTE DéIVOIRE  - Meta description: ...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -44,7 +44,7 @@ theme.extend.colors.primary to match the brand.
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
   - Replace the hero title with "immobilierdigital.aidi
-TERRAIN AVEC ACD C�TE D�IVOIRE".
+TERRAIN AVEC ACD CéTE DéIVOIRE".
   - Update the subtitle with: "".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
